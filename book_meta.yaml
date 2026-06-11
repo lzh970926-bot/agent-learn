@@ -1,0 +1,17 @@
+# 书籍元数据 —— 渲染封面时使用
+# 字段缺失时会回退到脚本内置默认值
+
+title: "大模型 Agent 系统开发"
+subtitle: "从原理到架构"
+author: "agent-learn 项目组"
+edition: "v1.0 · 2026"
+pill: "LLM AGENT · 系统开发实战"
+
+# 封面副文案（≤ 60 字）
+blurb: >
+  30 章 · 7 大篇章 · 系统讲透 LLM Agent 的设计原理、框架内核与工程架构。
+  配套代码仓库 agent-book-code/，覆盖 LangChain / LangGraph / LlamaIndex
+  等主流框架。
+
+# （可选）封面图。脚本暂未启用，留作扩展
+# cover_image: cover.png
